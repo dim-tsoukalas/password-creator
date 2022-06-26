@@ -29,4 +29,4 @@ $ java Main
 
 # Sources
 - Java Api
-- Tutorials at web
+- Tutorials from web
