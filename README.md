@@ -1,5 +1,5 @@
 # Intruduction
-Generate random passwords with java. 
+Exercise at college to generate random passwords with java. 
 The user selects the number of passwords and characters he needs and the program return random passwords <sub>different every time</sub>.
 
 # Technologies
